@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 350px;
+}
+
+.align{
+  text-align: center;
+}
+ 
+.logo{
+  margin-left: 5px;
+  height: 80px;
+  width: 80px;
+}
+.logotext{
+  margin-top:25px;
+  font-family : Comic Sans MS, Comic Sans, cursive;
+  font-size:25px
+}
+
+.spancss{
+  color:seagreen;
+}
